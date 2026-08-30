@@ -23,6 +23,8 @@ Fun fact: I was a three-time national champion cheerleading captain and varsity 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ## Featured Projects
 - **[Portfolio Return Forecasting & Optimization Tool](https://github.com/mattjackson7/tft-portfolio-optimizer)** — Deep learning-based return forecasting feeding a portfolio optimization algorithm, backtested with walk-forward simulation.
