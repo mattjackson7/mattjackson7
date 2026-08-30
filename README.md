@@ -1,3 +1,5 @@
 # About Me:
-Fourth year physics student with minors in Mathematics and Economics at the University of Guelph.<br>Passionate about programming and applying it to solve problems.<br>A fun fact about me is I'm a varsity swimmer and cheerleader with the University of Guelph.
+Master of Financial Economics candidate at Western University, with a BSc. Honours Physics (minors in Math & Economics) from the University of Guelph. Interested in quantitative finance — building tools for portfolio optimization, risk modelling, and options pricing.
+
+Fun fact: I was a three-time national champion cheerleading captain and varsity swimmer at Guelph.
 
