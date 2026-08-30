@@ -5,7 +5,7 @@ Fun fact: I was a three-time national champion cheerleading captain and varsity 
 
 ## 🎓 Education
 - **Western University** — Master of Financial Economics (2026–2027)
-- **University of Guelph** — BSc Honours Physics, Minors in Mathematics & Economics — Putnam top scorer (2023)
+- **University of Guelph** — BSc Honours Physics, Minors in Mathematics & Economics
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
