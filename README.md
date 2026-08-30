@@ -32,5 +32,5 @@ Fun fact: I was a three-time national champion cheerleading captain and varsity 
 - **[Options Pricing & Volatility Dashboard](https://github.com/mattjackson7/options-pricing-dashboard)** — From-scratch options pricing, Greeks, and implied volatility surface visualization.
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattjackson7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattjackson31)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjack24@uwo.ca)
